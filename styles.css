@@ -1,0 +1,71 @@
+body {
+    background-color: #11698e;
+}
+
+
+
+.container {
+    margin-top: 3em;
+}
+
+.carousel-item {
+    height: 700px;
+}
+
+.header {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    color: #16C79A;
+}
+
+.main {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.contact {
+    width: 50%;
+    text-align: center;
+    color: #E7D9EA;
+}
+
+h3 {
+    color: #E7D9EA;    
+}
+
+.navbar-brand, .navbar-brand img {
+    max-height: 50px;
+}
+
+.col {
+    display: flex;
+    justify-content: center;
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+footer {
+    color: #E7D9EA;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: auto;
+}
+
+.grid-item {
+    text-align: center;
+}
+
+form {
+    width: 80%;
+}
+
+
+
+
